@@ -2,6 +2,10 @@
 
 This is a simple diagnostic in C. This is intended to provide some base understanding of what the student understands to better cater tutoring to teach at the students' level.
 
+## Instructions
+
+Go through each folder in the `questions` folder, filling in the code for each problem. The prompt is in `prompt.md`. Read the prompt and try to answer the problem in the `answer.c` file. In order to run and test the code, run `make test`. This will run the code and test the code. In order to properly test the code, you can run the python script in the main folder. This will properly test the code and see if the output aligns with the expected output.
+
 ## Prerequisites
 
 1. `gcc` and `make` both must be installed in order to run the code.
